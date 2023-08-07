@@ -24,7 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://DEDL.github.io/DEDL-uptime)
+[**Visit our status website →**](https://alecarvennec-csgroup.github.io/DEDL-uptime/)
 
 ## 📄 License
 
