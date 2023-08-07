@@ -10,7 +10,7 @@ sites:
   - name: COP Data Space
     url: https://catalogue.dataspace.copernicus.eu/odata/v1/Products
   - name: WEkEO
-    url: https://wekeo-broker.apps.mercator.dpi.wekeo.eu/databroker/
+    url: https://wekeo-broker.apps.mercator.dpi.wekeo.eu/databroker/ui
   - name: DEDL HDA
     url: https://hda.p3.csgroup.space/
 
