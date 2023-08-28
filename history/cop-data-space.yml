@@ -1,7 +1,7 @@
 url: https://catalogue.dataspace.copernicus.eu/odata/v1/Products
-status: up
-code: 200
-responseTime: 1587
-lastUpdated: 2023-08-27T23:04:44.215Z
+status: down
+code: 503
+responseTime: 590
+lastUpdated: 2023-08-28T08:27:11.509Z
 startTime: 2023-08-07T13:43:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
