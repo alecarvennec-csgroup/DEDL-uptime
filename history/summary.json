@@ -76,17 +76,17 @@
     "url": "https://hda.p3.csgroup.space/",
     "icon": "https://icons.duckduckgo.com/ip3/hda.p3.csgroup.space.ico",
     "slug": "dedl-hda",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 381,
-    "timeWeek": 506,
-    "timeMonth": 523,
-    "timeYear": 529,
+    "time": 533,
+    "timeDay": 545,
+    "timeWeek": 531,
+    "timeMonth": 529,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   }
 ]
