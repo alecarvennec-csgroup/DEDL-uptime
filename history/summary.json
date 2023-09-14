@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1481,
     "timeDay": 1412,
-    "timeWeek": 1430,
+    "timeWeek": 1483,
     "timeMonth": 1479,
     "timeYear": 1481,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1428,
     "timeDay": 1373,
-    "timeWeek": 1442,
+    "timeWeek": 1482,
     "timeMonth": 1405,
     "timeYear": 1428,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "https://hda.p3.csgroup.space/",
     "icon": "https://icons.duckduckgo.com/ip3/hda.p3.csgroup.space.ico",
     "slug": "dedl-hda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
