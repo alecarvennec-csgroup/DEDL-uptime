@@ -1,7 +1,7 @@
 url: https://datahub.creodias.eu/odata/v1/Products
-status: up
-code: 200
-responseTime: 1295
-lastUpdated: 2023-10-26T23:06:34.710Z
+status: down
+code: 503
+responseTime: 625
+lastUpdated: 2023-10-27T10:39:38.044Z
 startTime: 2023-08-07T13:43:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
